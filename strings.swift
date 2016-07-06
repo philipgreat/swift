@@ -2,7 +2,7 @@
 // Keith Harrison http://useyourloaf.com
 
 // Import Foundation if you want to bridge to NSString
-// import Foundation, no foundation for now
+// import Foundation
 
 // ====
 // Initializing a String
