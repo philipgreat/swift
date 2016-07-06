@@ -10,3 +10,12 @@ for scene in shoppingList {
 }
 
 print("\(mansionCount) mansion scenes; \(cellCount) cell scenes")
+for  i  in [1,2,3,4,5] {
+    print("line \(i)")
+}
+
+var numnbers = [1,2,3,4,5]
+//for (index, value) in shoppingList.enumerated(){
+//    print("line index =  \(index), \(value)")
+//}
+
